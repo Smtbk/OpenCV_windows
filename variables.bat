@@ -1,0 +1,6 @@
+setx GSTREAMER_1_0_ROOT_MSVC_X86_64 "C:\Program Files\gstreamer\1.0\msvc_x86_64"
+setx GSTREAMER_DIR "C:\Program Files\gstreamer\1.0\msvc_x86_64"
+setx GSTREAMER_PATH "C:\Program Files\gstreamer\1.0\msvc_x86_64\bin"
+setx GSTREAMER_ROOT_X86_64 "C:\Program Files\gstreamer\1.0\msvc_x86_64"
+setx GST_PLUGIN_PATH "C:\Program Files\gstreamer\1.0\msvc_x86_64\lib\gstreamer-1.0"
+setx Path "%PATH%;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\gstreamer\1.0\msvc_x86_64\bin;C:\Program Files\gstreamer\1.0\msvc_x86_64\lib\gstreamer-1.0;C:\Program Files\gstreamer\1.0\msvc_x86_64\lib;"
